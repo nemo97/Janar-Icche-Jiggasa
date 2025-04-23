@@ -38,14 +38,14 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/nemo97/jij_docs/tree/main/docs',
+            'https://github.com/nemo97/Janar-Icche-Jingasa/tree/main/docs',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/nemo97/jij_docs/tree/main/docs',
+            'https://github.com/nemo97/Janar-Icche-Jingasa/tree/main/docs',
         },
         theme: {
           customCss: './src/css/custom.css',
