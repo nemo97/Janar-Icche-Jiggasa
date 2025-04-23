@@ -11,12 +11,12 @@ const config: Config = {
   url: 'https://nemo97.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/jij',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'nemo97', // Usually your GitHub org/user name.
-  projectName: 'jij_docs', // Usually your repo name.
+  projectName: 'jij', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
