@@ -1,5 +1,5 @@
 # Website
-This it repository for [Janar Icche Jingasa(জানার ইচ্ছা জিঙ্গাসা)](https://janaricchejingasa.in)
+This it repository for [Janar Icche Jingasa(জানার ইচ্ছা জিঙ্গাসা)](https://janar-icche-jiggasha.in)
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
