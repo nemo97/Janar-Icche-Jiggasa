@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://nemo97.github.io',
+  url: 'https://www.janar-icche-jiggasha.in',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -16,7 +16,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'nemo97', // Usually your GitHub org/user name.
-  projectName: 'Janar-Icche-Jingasa', // Usually your repo name.
+  projectName: 'Janar-Icche-Jiggasha', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
