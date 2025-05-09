@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'জানার ইচ্ছা জিঙ্গাসা',
-  tagline: '',
+  tagline: '"The roots of education are bitter, but the fruit is sweet." – Aristotle',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -38,14 +38,14 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/nemo97/Janar-Icche-Jingasa/tree/main',
+            'https://github.com/nemo97/Janar-Icche-Jiggasha/tree/main',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/nemo97/Janar-Icche-Jingasa/tree/main',
+            'https://github.com/nemo97/Janar-Icche-Jiggasha/tree/main',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -79,11 +79,17 @@ const config: Config = {
           label: 'Getting Started',
         },
         {
+          to: '/docs/contribute',
+          activeBasePath: 'docs',         
+          position: 'left',
+          label: 'How to Contribute?',
+        },
+         /*  {
           to: '/docs/primary/intro',          
           position: 'left',
           label: 'Primary',
         },
-     /*   {
+     {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar2',
           position: 'left',
@@ -108,8 +114,15 @@ const config: Config = {
           label: 'HS+ Student',
         }, */
         {
-          href: 'https://github.com/nemo97/jij_docs',
+          to: '/docs/about',
+          activeBasePath: 'docs',         
+          position: 'left',
+          label: 'About Me',
+        },
+        {
+          href: 'https://github.com/nemo97/Janar-Icche-Jiggasha',
           position: 'right',
+          label: 'GitHub',
           className: 'header-github-link',
           'aria-label': 'GitHub repository',
         },

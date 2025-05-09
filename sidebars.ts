@@ -18,12 +18,13 @@ const sidebars: SidebarsConfig = {
   
   tutorialSidebar: [
     'intro',
+     /* 
     {
       type: 'category',
       label: 'Primary',
       items: ['primary/intro'],
     },
-    {
+  {
       type: 'category',
       label: 'Secondary',
       items: ['secondary/intro'],
@@ -33,11 +34,12 @@ const sidebars: SidebarsConfig = {
       label: 'High Secondary',
       items: ['high_secondary/intro'],
     },
-    {
-      type: 'category',
-      label: 'Computer',
-      items: ['computers/intro'],
-    },
+    */
+    // {
+    //   type: 'category',
+    //   label: 'Computer',
+    //   items: ['computers/intro'],
+    // },
   ],
    
 };
